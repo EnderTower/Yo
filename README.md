@@ -8,3 +8,5 @@
 > Lyx: Lyxcode Command & Event handlers and LoadEvent file.
 
 > EnderTower: Nearly all of the code.
+
+Please credit all authors if you use this repo.
