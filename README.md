@@ -4,5 +4,7 @@
 > Then, run Yo! by completing the config.json file and running the command "node ." in your terminal.
 
 ## Credits:
-> Lyx: Lyxcode Command & Event handlers and LoadEvent file.\n
+
+> Lyx: Lyxcode Command & Event handlers and LoadEvent file.
+
 > EnderTower: Nearly all of the code.
