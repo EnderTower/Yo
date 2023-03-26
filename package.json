@@ -1,7 +1,7 @@
 {
-  "name": "pixy",
-  "version": "1.0.4",
-  "description": "Pixel Art Universe FR's official bot!",
+  "name": "yo",
+  "version": "2.5.3",
+  "description": "Yo Official Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
